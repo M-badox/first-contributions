@@ -144,6 +144,7 @@
 - aditya bagla
 - Reetish Rath
 - Dan
+- badox
 - [Kenta Mizuno](https://github.com/mizu0715)
 - [Ali Gorji](https://github.com/gorjiali)
 - [Dave Devito](https:://github.com/DaveDevito)
